@@ -1,4 +1,5 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Muhammad Asif</h1>
 <h3 align="center">I'm a Passionate Web Developer, Fast Learner & Traveller!!</h3>
 
@@ -67,12 +68,11 @@
   ## ❤ Connect with me:
 <br>
 <p align="left>
-
-<a href="https://muhammadasif10.blogspot.com/"><img src="https://img.icons8.com/color/50/4a90e2/internet--v2.png"/></a>
-<a href="https://www.linkedin.com/in/mohammadasif10/"><img src="https://img.icons8.com/color/48/4a90e2/linkedin.png"/></a>
-<a href="https://twitter.com/alexasifhossain"><img src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/></a>
-<a href="https://www.instagram.com/asif_hossain_hridoy/?hl=en"><img src="https://img.icons8.com/color/48/4a90e2/instagram-new--v2.png"/></a>
-<a href="https://codepen.io/CODER_ASIF"><img src="https://img.icons8.com/ios/50/4a90e2/codepen.png"/></a>
+    <a href="http://www.muhammadasif10.blogspot.com/"><img src="https://img.icons8.com/color/50/4a90e2/internet--v2.png"/></a>
+    <a href="https://www.linkedin.com/in/mohammadasif10/"><img src="https://img.icons8.com/color/48/4a90e2/linkedin.png"/></a>
+    <a href="https://twitter.com/alexasifhossain"><img src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/></a>
+    <a href="https://www.instagram.com/asif_hossain_hridoy/?hl=en"><img src="https://img.icons8.com/color/48/4a90e2/instagram-new--v2.png"/></a>
+    <a href="https://codepen.io/CODER_ASIF"><img src="https://img.icons8.com/ios/50/4a90e2/codepen.png"/></a>
 </p>
 
 
