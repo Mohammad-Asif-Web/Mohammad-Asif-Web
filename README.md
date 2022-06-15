@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Asif</h1>
 <h3 align="center">I'm a Passionate Web Developer, Blogger, Freelancer, and Teacher!!</h3>
 
@@ -82,6 +82,6 @@
 </a>
 <a href="https://github.com/Mohammad-Asif-Web?tab=followers"><img src="https://img.shields.io/github/followers/Mohammad-Asif-Web?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br>
+<br><br>
 You can  <a href="https://www.buymeacoffee.com/muhammadasif10" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
 
