@@ -1,17 +1,18 @@
-<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" src="https://media.licdn.com/dms/image/D5616AQFm-7Km8yc6YA/profile-displaybackgroundimage-shrink_350_1400/0/1685213065458?e=1712793600&v=beta&t=E2-Th0GBi_GpjwzVpvSYKLK2NVzYiRI84BAoX_DXlAc" height="175px"/></a>
+<!-- <a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Muhammad Asif</h1>
-<h3 align="center">I'm a Passionate Web Developer, Fast Learner & Traveller!!</h3>
+<h3 align="center">Fast Learner, Hard Worker, Team Player!!</h3>
+<!-- <h3 align="center">I'm a Passionate Web Developer, Fast Learner & Traveller!!</h3> -->
 
 #
 ## 🙋‍♂️ About Me
 - 🔭 I I’m currently working on Javascript, React.js, PHP, laravel, MySql,
 - 🌱 I’m currently learning Laravel & SQL Database  🤣
 - 👯 I’m looking to collaborate with others for Updated things🎈
-- 🥅 2022 Goals: Contribute more to [Open Source Community Projects Team](https://github.com/Open-Source-Project-Team)💥
+- 🥅 2024 Goals: Contribute more to [Open Source Community Projects Team](https://github.com/Open-Source-Project-Team)💥
 - ⚡ Fun fact: I love to Coding, Travelling and Gossiping 🏍
-
- 
 
 
 ## 🚀 Languages
@@ -57,23 +58,21 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Mohammad-Asif-Web/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Asif-Web&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
-  <a href="https://github.com/Mohammad-Asif-Web/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Asif-Web&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br>
+<br/>
+<a href="https://github.com/Mohammad-Asif-Web/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Asif-Web&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-  ## ❤ Connect with me:
+<a href="https://github.com/Mohammad-Asif-Web/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Asif-Web&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
-<p align="left>
-    <a href="http://www.muhammadasif10.blogspot.com/"><img src="https://img.icons8.com/color/50/4a90e2/internet--v2.png"/></a>
-    <a href="https://www.linkedin.com/in/mohammadasif10/"><img src="https://img.icons8.com/color/48/4a90e2/linkedin.png"/></a>
-    <a href="https://twitter.com/alexasifhossain"><img src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/></a>
-    <a href="https://www.instagram.com/asif_hossain_hridoy/?hl=en"><img src="https://img.icons8.com/color/48/4a90e2/instagram-new--v2.png"/></a>
-    <a href="https://codepen.io/CODER_ASIF"><img src="https://img.icons8.com/ios/50/4a90e2/codepen.png"/></a>
-</p>
+
+## ❤ Connect with me:
+<a href="https://muhammadasif.netlify.app/"><img src="https://img.icons8.com/color/50/4a90e2/internet--v2.png"/></a>
+<a href="https://www.linkedin.com/in/mohammadasif10/"><img src="https://img.icons8.com/color/48/4a90e2/linkedin.png"/></a>
+<a href="https://twitter.com/alexasifhossain"><img src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/></a>
+<a href="https://www.instagram.com/asif_hossain_hridoy/?hl=en"><img src="https://img.icons8.com/color/48/4a90e2/instagram-new--v2.png"/></a>
+<a href="https://codepen.io/CODER_ASIF"><img src="https://img.icons8.com/ios/50/4a90e2/codepen.png"/></a>
+<a href="https://dev.to/muhammad_asif"><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/96/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-bold-tal-revivo.png"></a>
 
 
 ## ❤ Views and Followers
@@ -82,6 +81,6 @@
 </a>
 <a href="https://github.com/Mohammad-Asif-Web?tab=followers"><img src="https://img.shields.io/github/followers/Mohammad-Asif-Web?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br><br>
-You can  <a href="https://www.buymeacoffee.com/muhammadasif10" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
+<br>
+<a href="https://www.buymeacoffee.com/muhammadasif10" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
 
