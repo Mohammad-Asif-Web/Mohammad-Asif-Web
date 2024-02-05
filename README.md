@@ -46,6 +46,32 @@
     <img src="https://img.icons8.com/fluent/48/4a90e2/adobe-photoshop.png"/>
 </p>
 
+## 🎓 Courses
+<br>
+
+|       Institute           |                                Course Name                                |
+| --------------------------| -----------------------------------------------------------------------   |
+|                           |   JAVASCRIPT ALGORITHMS AND DATA STRUCTURS (300 Hours) – 2023             |
+|  FreeCodeCamp             |  Certified by FreeCodeCamp                                                |
+|                           |  👉 [Credential URL](https://www.freecodecamp.org/certification/mohammad_asif/javascript-algorithms-and-data-structures)            |   
+|                           |                                                                           |
+|                           |  PHP WITH LARAVEL FRAMEWORK   (3 Months) – 2022                           |
+|  Pencil Box Training      |  BASIS SEIP Project, Ministry of Finance of Government of BD              |
+|                           |  👉 [Credential URL](https://drive.google.com/file/d/1sIHRUf_eaW62Kd_JXNe4cLzs4Z6uUakc/view)            |   
+|                           |                                                                           |
+|                           |  WEB DESIGN AND DEVELOPMENT (4 Months) – 2020                             |
+|  LEDP Training            |  Learning and Earning Development Project                                 |
+|                           |  👉 [Credential URL]()            |   
+|                           |                                                                           |
+|                           |  RESPONSIVE WEB DESIGN (300 Hours) – 2020                                 |
+|  FreeCodeCamp             |  Certified by FreeCodeCamp                                                |
+|                           |  👉 [Credential URL](https://www.freecodecamp.org/certification/mohammad_asif/responsive-web-design)            |   
+|                           |                                                                           |
+
+
+
+
+
 ## 🎡 My Github Streak 
 <br>
 
@@ -83,4 +109,9 @@
 
 <br>
 <a href="https://www.buymeacoffee.com/muhammadasif10" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
+
+#
+
+-  ''O Allah, benefit me with what you have taught me, teach me what
+will benefit me, and increase my knowledge''. <br>-- Prophet Muhammad (ﷺ) ❤️   
 
